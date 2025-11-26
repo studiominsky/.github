@@ -1,9 +1,4 @@
-<svg width="80" height="85" viewBox="0 0 80 85" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M20 40C31.0457 40 40 31.0457 40 20C40 8.9543 31.0457 0 20 0C8.9543 0 0 8.9543 0 20C0 31.0457 8.9543 40 20 40Z" fill="#90C360"/>
-<path d="M65 25C70.5228 25 75 20.5228 75 15C75 9.47715 70.5228 5 65 5C59.4772 5 55 9.47715 55 15C55 20.5228 59.4772 25 65 25Z" fill="#B55DE4"/>
-<path d="M15 80C20.5228 80 25 75.5228 25 70C25 64.4772 20.5228 60 15 60C9.47715 60 5 64.4772 5 70C5 75.5228 9.47715 80 15 80Z" fill="#6090C3"/>
-<path d="M60 85C71.0457 85 80 76.0457 80 65C80 53.9543 71.0457 45 60 45C48.9543 45 40 53.9543 40 65C40 76.0457 48.9543 85 60 85Z" fill="#D3704A"/>
-</svg>
+![Studio Minsky Logo](assets/logo.svg)
 
 # Welcome to Studio Minsky
 
@@ -51,4 +46,4 @@ We are seeking partnerships with forward-thinking businesses ready to elevate th
 * **Inquiries:** [Your Agency Contact Email Address]
 * **View Our Work:** Explore our pinned repositories below for more technical insights.
 
-Let's discuss how we can bring your next vision to life.
+Let me know if the logo appears after you've uploaded the file and updated your `profile/README.md` with this code!
