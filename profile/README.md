@@ -1,4 +1,4 @@
-![Studio Minsky Logo](assets/logo.svg)
+![Studio Minsky Logo](/logo.svg)
 
 # Welcome to Studio Minsky
 
