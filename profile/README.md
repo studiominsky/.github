@@ -1,6 +1,6 @@
 # <img src="/logo.svg" width="25" alt="Studio Minsky Logo"> Studio Minsky
 
-Professional web development and digital strategy agency dedicated to building high-performance, scalable web solutions.
+Professional web development agency dedicated to building high-performance, scalable web solutions.
 Based in Vienna, Austria.
 
 ### Core Services & Expertise
@@ -13,7 +13,7 @@ Based in Vienna, Austria.
 
 ### Our Technology Foundation
 
-Our agency utilizes a modern, resilient tech stack to ensure speed, stability, and scalability for every client project.
+Studio Minsky uses modern, resilient tech stack to ensure speed, stability, and scalability for every client project.
 
 | Category | Technologies |
 | :--- | :--- |
